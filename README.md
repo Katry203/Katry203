@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-
+  
 <h1>Hi 👋, I'm Abdelrahman Elkatry</h1>
 <h3>Frontend Developer | Coding Instructor | Presentation Designer</h3>
 
@@ -24,7 +22,7 @@
 
 ## 🚀 About Me
 
-- 💻 Frontend Developer (HTML, CSS, Bootstrap, JavaScript)
+- 💻 Frontend Developer (HTML, CSS, Bootstrap , TailwindCSS , Josn , JavaScript , Typescript , React)
 - 🎤 Coding Instructor (Explaining programming in a simple way)
 - 🎨 Presentation Designer  
 - 🌱 Currently learning **React**
